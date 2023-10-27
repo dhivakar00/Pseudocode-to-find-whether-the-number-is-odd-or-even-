@@ -1,0 +1,8 @@
+# Pseudocode-to-find-whether-the-number-is-odd-or-even-
+BEGIN 
+     GET the number from the user
+     IF the number %2==0
+         DISPLAY the number is even
+     ELSE
+         DISPLAY the number is odd
+END
