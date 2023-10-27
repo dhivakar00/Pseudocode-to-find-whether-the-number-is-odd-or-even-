@@ -1,0 +1,1 @@
+# Pseudocode-to-find-whether-the-number-is-odd-or-even-
